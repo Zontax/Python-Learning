@@ -1,0 +1,16 @@
+{
+    "firstName": "Vadim",
+    "lastName": "Oliynik",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 30,
+    "children": [
+        {
+            "firstName": "Alice",
+            "age": 6
+        },
+        {
+            "firstName": "Bob",
+            "age": 8
+        }
+    ]
+}

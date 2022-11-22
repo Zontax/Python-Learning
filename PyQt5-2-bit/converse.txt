@@ -1,0 +1,1 @@
+pyuic5 -x D:\Python39\PythonProject\PyQt5\interface.ui -o D:\Python39\PythonProject\PyQt5\interface.py

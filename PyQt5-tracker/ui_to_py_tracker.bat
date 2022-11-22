@@ -1,0 +1,1 @@
+pyuic5.exe -x D:\Python39\PythonProject\PyQt5-tracker\tracker.ui -o D:\Python39\PythonProject\PyQt5-tracker\tracker.py

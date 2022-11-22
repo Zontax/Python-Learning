@@ -1,0 +1,1 @@
+pyuic5.exe -x D:\Python39\PythonProject\PyQt5-2-bit\2-bit.ui -o D:\Python39\PythonProject\PyQt5-2-bit\2-bit.py
